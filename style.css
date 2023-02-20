@@ -1,0 +1,202 @@
+nav {
+    height: 50px;
+    background-color: #212121;
+}
+    header {
+        position: relative;
+    }
+.menu {
+    padding: 13px 70px;
+    margin: 0 ;
+    display: flex;
+    justify-content: space-between;
+    list-style-type: none;
+}
+.menu .menu_link {
+    
+    font-size: 15px;
+    color: white;
+    font-weight: 300;
+    text-decoration: none;
+}
+    .menu .menu_item {
+        border-right: 2px dotted black;
+        padding-right: 85px;
+    }
+    .subheader {
+       position: absolute;
+       width: 100%;
+        height: 84px;
+        background-color: rgba(0, 0, 0, 0.6);
+    }
+
+    .subheader .subheader_logo {
+        display: block;
+        max-width: 40%;
+        margin-top: 10px;
+        
+    }
+    .subheader .subheader_call {
+        font-size: 12px;
+       
+        height: 11px;
+        margin-top: 15px;
+        color: #ffffff;
+        font-weight: 300;
+        text-align: right;
+        
+    }
+      .subheader .subheader_phone {
+        display: block;
+        margin-top: 11px;
+        color: white;
+        font-size: 22px;
+        font-weight: 400;
+        text-transform: uppercase;
+        text-align: right;
+        line-height: 12px;
+        text-decoration: none;
+      }
+      .subheader .subheader_btn {
+        width: 172px;
+        height: 46px;
+        box-shadow: inset 0 -3px 0 rgba(0, 0, 0, 0.12);
+        border: none;
+        background-image: linear-gradient(to top, white 0%, white 100%);
+        text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.21);
+        color: black;
+        font-size: 14px;
+        font-weight: 600;
+        margin-top: 16px;
+        border-radius: 5px;
+        text-transform: uppercase; 
+       
+        
+        
+      }
+      
+      .promo {
+        background: url('../img/у.jpeg' ) center center/cover no-repeat;
+        min-height: 800px;
+        padding: 150px 0 135px 0;
+      }
+      .promo .promo_subheader {
+        color: white;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 36px;
+        line-height: 36px;
+        margin: 0;
+        margin-top: 22px;
+        text-align: center;
+      }
+      .promo .promo_header {
+        color: white;
+        font-weight: 700;
+        text-transform: uppercase;
+        font-size: 60px;
+        line-height: 60px;
+        text-align: center;
+      }
+      .promo .promo_discr {
+        color: #ffffff;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 20px;
+        margin-top: 23px;
+        text-align: center;
+      }
+      .container {
+        min-height: 577px;
+       }
+      /* .promo .promo_btn {
+        display: block;
+       margin: 50px auto 0 auto;
+       width: 259px;
+height: 63px;
+box-shadow: inset 0 -4px 0 rgba(0, 0, 0, 0.12);
+border: 3px solid rgba(0, 0, 0, 0.07);
+background-image: linear-gradient(to top, white 0%, white 100%);
+border-radius: 5px;
+text-shadow: 1px 1px 0 rgba(0, 0, 0, 0.21);
+color: #000000;
+font-size: 16px;
+font-weight: 600;
+font-style: normal;
+letter-spacing: normal;
+text-align: center;
+text-transform: uppercase; 
+
+      } */
+      .hhh1 {
+        display: block;
+        text-align: center;
+        margin-top: 400px;
+        
+      }
+
+      
+      
+      
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+
+
+  

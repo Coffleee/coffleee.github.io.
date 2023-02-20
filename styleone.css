@@ -1,0 +1,9 @@
+h6 {
+    text-align: center;
+}
+.card-body .btn {
+display: block;
+margin: 0 auto;
+background-color: blue;
+
+}
